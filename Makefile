@@ -8,7 +8,7 @@ MORE=ws2812b_rpi ws2812-RPi
 NOTICE=Makefile
 
 #Set according to your needs, e.g. gedit:
-EDITOR=nano
+EDITOR=joe
 
 
 CFLAGS=-g -O0 -Wall -Wformat
